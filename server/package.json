@@ -1,6 +1,6 @@
 {
   "name": "server",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "description": "OCI Multiplayer Server",
   "repository": "https://github.com/vmleon/oci-multiplayer",
   "main": "index.js",
@@ -23,6 +23,7 @@
     "socket.io": "^4.4.1"
   },
   "devDependencies": {
+    
     "nodemon": "^2.0.15",
     "pino-pretty": "^7.6.1"
   }
